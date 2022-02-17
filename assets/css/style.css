@@ -181,7 +181,7 @@ height: auto;
 
 .github-repo-anchors{
     position: absolute;
-    top: 10px;
+    bottom: 15px;
     right: 5px;
     background-color: var(--blue);
     font-size: 23px;
