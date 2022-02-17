@@ -168,7 +168,7 @@ height: auto;
 }
 
 /* this establishes the positioning and style for the titles of each project*/
-.example-text{
+.work-name{
     position: absolute;
     top: 10px;
     left: 10px;
@@ -177,6 +177,20 @@ height: auto;
     color: white;
     border: solid var(--light) 3px;
 }
+
+
+.github-repo-anchors{
+    position: absolute;
+    top: 10px;
+    right: 5px;
+    background-color: var(--blue);
+    font-size: 23px;
+    color: white;
+    border: solid var(--light) 3px;
+
+}
+
+
 
 /* this establishes the size of the foter*/
 footer{
