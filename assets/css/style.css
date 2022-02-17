@@ -181,16 +181,17 @@ height: auto;
 
 .github-repo-anchors{
     position: absolute;
-    bottom: 15px;
-    right: 5px;
+    bottom: 10px;
+    left: 10px;
     background-color: var(--blue);
     font-size: 23px;
     color: white;
     border: solid var(--light) 3px;
-
 }
 
-
+#first-github-repo-anchor{
+    bottom: 17px;
+}
 
 /* this establishes the size of the foter*/
 footer{
@@ -354,6 +355,12 @@ img{
         height: 100px;
         width: 97%;
     }
+
+    .github-repo-anchors,
+    #first-github-repo-anchor{
+        bottom: 1px;
+    }
+
     #first-picture{
         height: 100px;
         width: 97%;
