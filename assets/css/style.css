@@ -10,6 +10,7 @@
 /* this establishos the background of the page as the green with a gradiant */
 body{
     background: linear-gradient(90deg, rgba(21,88,16,1) 0%, rgba(176,240,119,0.8183867296918768) 100%);
+    font-family: 'Roboto', sans-serif;
 }
 
 
