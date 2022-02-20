@@ -6,3 +6,10 @@ Built Using: HTML CSS This page was built with accessibility as a main focus
 Usage: The only thing the user will need to do is to open the webpage. The user will be able to use the nav section to navigate throughout the page. The user will also be able to click on the pictures of my work to navigate to webpages containing my work. At the bottom of the page the user is able to click on the contact me links to open up different interfaces to contact me.
 
 Images:
+<img src="./assets/images/examples/example1.png">
+
+<img src="./assets/images/examples/example2.png">
+
+<img src="./assets/images/examples/example3.png">
+
+<img src="./assets/images/examples/example4.png">
