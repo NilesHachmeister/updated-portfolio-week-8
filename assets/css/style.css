@@ -83,7 +83,8 @@ header nav a:hover{
 .text p {
     justify-content: center;
     margin: 40px; 
-    line-height: 1em;
+    line-height: 1.15em;
+
 }
 
 /* this establishes the size of my pictures*/
