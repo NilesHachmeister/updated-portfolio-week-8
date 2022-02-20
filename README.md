@@ -17,3 +17,5 @@ This third image shows what the bottom of the page looks like when the screen re
 
 This forth image shows what the bottom of the page looks like when the screen resolution is less than 640px.
 <img src="./assets/images/examples/example4.png">
+
+The deployed website can be found at: https://nileshachmeister.github.io/updated-portfolio-week-8/
